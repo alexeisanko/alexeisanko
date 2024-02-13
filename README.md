@@ -1,16 +1,37 @@
-### Hi there 👋
+# Hi, I'm  Alexei👋
+Junior Python developer (future Senior developer)
 
-<!--
-**alexeisanko/alexeisanko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align='center'>
+   <a href="https://github-readme-stats.vercel.app/api?username=alexeisanko&show_icons=true&count_private=true"><img
+           height=150
+           src="https://github-readme-stats.vercel.app/api?username=alexeisanko&show_icons=true&count_private=true"/></a>
+   <a href="https://github.com/romankh3/github-readme-stats"><img height=150
+                                                                  src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexeisanko&layout=compact"/></a>
+</p>
 
-Here are some ideas to get you started:
+<p align='center'>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+   <a href="https://t.me/Alexeisanko">
+       <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
+   </a>
+<p align='center'>
+   📫: <a href='mailto:alexeisanko@gmail.com'>alexeisanko@gmail.com</a>
+</p>
+
+
+### Мои основные/пет проекты
+*   Сайт [Доставки еды](https://github.com/alexeisanko/cafe_shtin) с интеграцией CRM "СБИС Престо". В настоящее время используется компанией "Буфет в обед"
+*   [Бот](https://github.com/alexeisanko/tutoring_center_bot) для учебных центров. В продакшене используется только VK бот для записи студентов на пробные экзамены ОГЭ/ЕГЭ
+*   Трекер полезных привычек с финансовой мотивацией и общением единомышленников на базе [Telegram бота](https://github.com/alexeisanko/ucds_bots)
+
+
+## 🛠 Технический стек
+*   Python, Javascript
+*   PostgreSQL, Redis
+*   Django, FastAPI
+
+<div align="center" style="margin: 40px 0">
+   <a href="https://github.com/romankh3/github-profile-views-counter">
+       <img width="175px" src="https://komarev.com/ghpvc/?username=alexeisanko&color=DE002D">
+   </a>
+</div>
