@@ -1,5 +1,5 @@
-# Hi, I'm  Alexei👋
-Junior Python developer (future Senior developer)
+# Привет, меня зовут Алексей👋
+Junior Python developer
 
 <p align='center'>
    <a href="https://github-readme-stats.vercel.app/api?username=alexeisanko&show_icons=true&count_private=true"><img
