@@ -26,7 +26,7 @@ Junior Python developer
 
 
 ## 🛠 Технический стек
-*   Python, Javascript
+*   Python
 *   PostgreSQL, Redis
 *   Django, FastAPI
 
