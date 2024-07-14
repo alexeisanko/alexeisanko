@@ -19,7 +19,7 @@ Junior Python developer
 </p>
 
 
-### Мои основные/пет проекты
+### Мои пет проекты
 *   Сайт [Доставки еды](https://github.com/alexeisanko/cafe_shtin) с интеграцией CRM "СБИС Престо".
 *   [Бот](https://github.com/alexeisanko/tutoring_center_bot) для учебных центров. В продакшене используется только VK бот для записи студентов на пробные экзамены ОГЭ/ЕГЭ
 *   Трекер полезных привычек с финансовой мотивацией и общением единомышленников на базе [Telegram бота](https://github.com/alexeisanko/ucds_bots)
